@@ -3,9 +3,9 @@
 , "keywords":		[ "ssdp", "multicast", "media", "device", "upnp" ]
 , "version":		"0.0.1"
 , "author":			"Nicholas Libby <Xedecimal@gmail.com>"
-
 , "repository":		{ "type":  "mercurial"
 					, "url":   "https://bitbucket.org/Xedecimal/node-ssdp" }
+, "bugs":			{ "url":   "https://bitbucket.org/Xedecimal/node-ssdp/issues" }
 , "os":				[ "linux"
 					, "windows"
 					, "mac" ]
