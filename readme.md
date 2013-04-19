@@ -12,11 +12,11 @@
 		console.log('Got a response to an m-search.');
 	});
 	
-	ssdp.search('urn:schemas-upnp-org:service:ContentDirectory:1');
+	client.search('urn:schemas-upnp-org:service:ContentDirectory:1');
 	
 	// Or maybe if you want to scour for everything
 	
-	ssdp.search('ssdp:all');
+	client.search('ssdp:all');
 	
 	// This should get you at least started.
 
